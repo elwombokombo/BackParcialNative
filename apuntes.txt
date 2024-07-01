@@ -479,3 +479,6 @@ export default function Componente() {
 
 
 Estos patrones y prácticas te ayudarán a manejar la comunicación y la interactividad en tu aplicación React 
+
+
+Screens Api App.tsx donde se ubican los archivos necesarios
